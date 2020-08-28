@@ -1,0 +1,113 @@
+.google-logo-image {
+    height: 33px;
+    width: 92px;
+    
+    }
+
+.query-advanced {
+    font-size: 20px;
+    color: #d93025;
+    margin: 25px 35px;
+    font-family: Arial, sans-serif;
+    margin-top: 50px;
+    margin-left: 29px;
+}
+
+.back-to-google {
+    display:flex;
+    justify-content: flex-end;
+    color: rgba(0,0,0,0.87);
+    text-decoration: none;
+    margin-top: -35px;
+    margin-right: 20px;
+}
+
+
+
+
+.find-pages {
+    margin-top: 10px;
+    margin-left: 30px;
+    font-family: Arial, sans-serif;
+    font-size: 1.1rem;
+    font-weight: 300;
+}
+
+h3 {
+    margin-left: 30px;
+    font-family: Arial;
+    font-size: 0.8rem;
+    font-weight: 300;
+}
+
+.input-box1 {
+    margin-left: 62px;
+    width: 32rem;
+    height: 25px;
+    border-radius: 1px;
+    font-size: 13px;
+    padding: 1px 8px;
+    border: 1px solid #d9d9d9;
+    border-top: 1px solid #c0c0c0;
+    }
+
+.input-box2 {
+    margin-left: 2px;
+    width: 32rem;
+    height: 25px;
+    border-radius: 1px;
+    font-size: 13px;
+    padding: 1px 8px;
+    border: 1px solid #d9d9d9;
+    border-top: 1px solid #c0c0c0;
+}    
+
+.input-box3 {
+    margin-left: 40px;
+    width: 32rem;
+    height: 25px;
+    border-radius: 1px;
+    font-size: 13px;
+    padding: 1px 8px;
+    border: 1px solid #d9d9d9;
+    border-top: 1px solid #c0c0c0;
+}
+
+.input-box4 {
+    margin-left: 30px;
+    width: 32rem;
+    height: 25px;
+    border-radius: 1px;
+    font-size: 13px;
+    padding: 1px 8px;
+    border: 1px solid #d9d9d9;
+    border-top: 1px solid #c0c0c0;
+}
+
+a {
+    display:flex;
+    justify-content: flex-end;
+    color: red;
+    
+}
+
+.advanced-button {
+    margin: 10px 0;
+    float: right;
+    margin-right: 710px;
+    height: 30px;
+    width: 120px;
+    line-height: 100%;
+    box-shadow: none;
+    background-color: #4d90fe;
+    background-image: -webkit-linear-gradient(top,#4d90fe,#4787ed);
+    border: 1px solid #3079ed;
+    border-radius: 2px;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    white-space: nowrap;
+    padding: 0 8px;
+    font-family: Arial;
+    color: white;
+}
